@@ -2,7 +2,6 @@
 
 ![Java](https://img.shields.io/badge/Java-Android-ED8B00?logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-4.2+-3DDC84?logo=android&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
@@ -31,7 +30,6 @@
 |-----------|------------|
 | **Язык** | Java |
 | **Платформа** | Android (API 17+) |
-| **Хранение данных** | SQLite |
 
 ---
 
